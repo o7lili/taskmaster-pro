@@ -1,5 +1,0 @@
-develop
-feature/bootstrap
-*feature/drag-drop
-feature/edit-tasks
-main
